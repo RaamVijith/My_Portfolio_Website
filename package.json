@@ -1,7 +1,7 @@
 {
   "name": "ramalingam-vijithan-portfolio",
   "version": "0.1.0",
-  "homepage": "https://RaamVijith.github.io",
+  "homepage": "https://raamvijith.github.io/My_Portfolio_Website",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
