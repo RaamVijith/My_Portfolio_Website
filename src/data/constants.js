@@ -192,7 +192,7 @@ export const experiences = [
     id: 1,
     img: "https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg?fit=1200%2C630",
     role: "Hacktoberfest Contributor ",
-    company: "GirlScript Summer of Code",
+    company: "open source contribution",
     date: "Aug 2022 - Present",
     desc: "Contributing to different open-source projects and learn from industry experts",
   },
@@ -202,7 +202,7 @@ export const experiences = [
     role: "MObile / Web App Developer",
     company: "Self Learning",
     date: "2020 - Present",
-    desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+    desc: "I have had work on exciting projects my self and expreience with multiple related technologies.",
     skills: [
       "React Native",
       "React.js",
